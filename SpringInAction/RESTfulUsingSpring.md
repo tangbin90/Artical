@@ -2,6 +2,8 @@
 
 REST（Representational State Transfer），已经成为替换SOAP（Simple Object Access Protocol）的主流方案。REST面向资源，描述程序的事物和名词。RPC面向服务，关注行为和动作。
 
+
+
 ## RESTful概念
 
 * 表述性（Representational）：REST资源用各种形式表述，包括XML、JSON、HTML。
